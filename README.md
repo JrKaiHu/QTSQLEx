@@ -1,2 +1,2 @@
-# QTSQLEx01
+# QTSQLEx
 QT SQLite Example
